@@ -1,0 +1,40 @@
+body{
+	margin:0px;
+	padding:0px;
+	font-family: 'Comfortaa', cursive;
+	text-align:center;
+}
+
+input[type="text"], input[type="password"]{
+	outline:none;
+	padding:10px;
+	display:block;
+	width:300px;
+	border-radius: 3px;
+	border:1px solid #eee;
+	margin:20px auto;
+}
+
+input[type="submit"]{
+	padding:10px;
+	color:black;
+	background:#F7E9E9;
+	width:320px;
+	margin:20px auto;
+	margin-top:0px;
+	border:0px;
+	border-radius: 3px;
+	cursor:pointer;
+    font-family: 'Comfortaa', cursive;
+}
+
+/* input[type="submit"]:hover{
+	background:#F5B798;
+} */
+
+.header{
+	background-color: #efefef;
+	padding:5px;
+	width:100%;
+	text-align:left;
+}
